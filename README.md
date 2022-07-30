@@ -1,2 +1,2 @@
 # AL-DS
-pratice
+practice
